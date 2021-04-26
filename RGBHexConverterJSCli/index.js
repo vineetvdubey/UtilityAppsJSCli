@@ -12,7 +12,7 @@ const exitApp = () => {
 const rgbToHex = (r, g, b) => "#" + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1);
 
 const hexToRgb = (hex) => {
-  let h = parseInt(hex, 16),
+  let h = parseInt(hex, 16)
   const rgb = {
       r: (h >> 16) & 0xFF,        // or `(i & 0xFF0000) >> 16`
       g: (h >>  8) & 0xFF,        // or `(i & 0x00FF00) >>  8`
