@@ -4,7 +4,7 @@ This project consists of multiple command-line based mini applications.
 
 <hr>
 
-### Demo Links to REPL.IT
+### Demo Links to REPL.IT  
 
 [Base64 Encoder Decoder](https://replit.com/@VineetDubey/Base64EncoderDecoderJSCli?lite=1&outputonly=1)
 
