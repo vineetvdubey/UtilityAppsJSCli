@@ -1,6 +1,8 @@
 # Utility Apps NodeJS CLI
 
-This project consists of multiple command-line based mini applications.
+This project consists of multiple command-line based mini applications.  
+
+<hr>
 
 ### Demo Links to REPL.IT
 
@@ -16,7 +18,7 @@ This project consists of multiple command-line based mini applications.
 
 [URL Encoder Decoder](https://replit.com/@VineetDubey/URLEncoderDecoderJSCli?lite=1&outputonly=1)
 
-
+<hr>
 
 #### Note:
 [Airbnb JS Style Guidelines](https://airbnb.io/javascript/#table-of-contents) is used as reference.
