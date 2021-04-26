@@ -18,6 +18,8 @@ This project consists of multiple command-line based mini applications.
 
 [URL Encoder Decoder](https://replit.com/@VineetDubey/URLEncoderDecoderJSCli?lite=1&outputonly=1)
 
+[Unit Converters](https://replit.com/@VineetDubey/UnitConvertersJSCli?lite=1&outputonly=1)
+
 <hr>
 
 #### Note:
